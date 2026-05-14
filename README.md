@@ -35,5 +35,5 @@ Load Tally is an IoT-based inventory management web application that uses a **we
 ## System Architecture
 
 ```text
-Sensors → Microcontroller → Backend Server → Database → Web Dashboard
+Sensors → Microcontroller → Backend Server → Web Dashboard
 ```

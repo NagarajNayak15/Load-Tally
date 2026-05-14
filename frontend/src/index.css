@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*a{
+  padding: 0px;
+  box-sizing: border-box;
+  margin: 0px;
+}
